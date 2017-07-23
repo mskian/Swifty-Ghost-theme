@@ -30,7 +30,7 @@ Theme demo  - https://itrendbuzz.com
 - Social Share buttons
 - SEO Optimized
 - Speed optimized
-- Code Highlighter
+- Code Highlighter (prismjs.com)
 
 ## Install Instructions
 
