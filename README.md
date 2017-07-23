@@ -26,11 +26,13 @@ Theme demo  - https://itrendbuzz.com
 - Simple Look (No fancy Desings)
 - Clean Layouts
 - Responsive Design
+- Bootstrap CSS Framework
 - Easy to Customize
 - Social Share buttons
 - SEO Optimized
 - Speed optimized
 - Code Highlighter (prismjs.com)
+
 
 ## Install Instructions
 
