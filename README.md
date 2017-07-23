@@ -7,6 +7,8 @@ Light Weight and Responsive Ghost CMS theme by Santhosh veer
 
 ## General Information
 
+This theme Supports on Latest Ghost CMS Version 1.0.0
+
 ```
 Supported Ghost Version: 1.0.0
 Theme Version: 0.0.1
@@ -24,7 +26,7 @@ Theme Version: 0.0.1
 ## Install Instructions
 
 - Download this theme
-- Goto > Desing - Upload and activate the theme 
+- Goto > Design - Upload and activate the theme 
 
 
 ## Developer Instruction
@@ -35,10 +37,11 @@ Theme Version: 0.0.1
 ## Upcoming Updates
 
 - Facebook/Disqus Comments
-- Sperate files for Post widgets
+- Separate files for Post widgets
 
 ## Others
 
+- <a href="https://github.com/mskian/msk-swifty/issues">Submit issues</a>
 
 
 ### Changelog
