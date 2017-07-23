@@ -26,7 +26,7 @@ Theme demo  - https://itrendbuzz.com
 - Simple Look (No fancy Desings)
 - Clean Layouts
 - Responsive Design
-- Easy to Custamize
+- Easy to Customize
 - Social Share buttons
 - SEO Optimized
 - Speed optimized
@@ -59,6 +59,7 @@ Theme demo  - https://itrendbuzz.com
 
 - <a href="https://github.com/mskian/msk-swifty/issues">Submit issues</a>
 - Support Form (Coming Soon)
+- Detailed Documentation (Updated soon)
 
 
 ### Changelog
