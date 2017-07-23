@@ -28,6 +28,8 @@ Theme demo  - https://itrendbuzz.com
 - Responsive Design
 - Easy to Custamize
 - Social Share buttons
+- SEO Optimized
+- Speed optimized
 - Code Highlighter
 
 ## Install Instructions
