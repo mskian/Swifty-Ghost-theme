@@ -1,0 +1,43 @@
+{{!< default}}
+
+{{#author}}
+
+<div class="container">
+<div class="row">
+<div class="col-lg-6 col-lg-offset-3 text-center">
+	
+{{#if profile_image}}<img class="userimg img-circle" src="{{img_url profile_image}}" alt="{{name}}'s Picture"/>{{/if}}
+<h2 class="post-title">{{name}}</h2>
+<br /> 
+{{#if bio}}<p class="author-bio">{{bio}}</p>{{/if}}
+<p>Total - <span>{{plural ../pagination.total empty='No posts' singular='% post' plural='% posts'}}</span> <i class="fa fa-pencil" aria-hidden="true"></i> </P>
+</div>
+</div>
+</div>
+<br />
+
+{{/author}}
+
+{{!-- The big featured header --}}
+<div class="container">
+<div class="row">
+<div class="col-lg-6 col-lg-offset-3 text-center">
+<div class="panel panel-success">
+<div class="panel-body">
+
+{{#foreach posts}}
+<article class="{{post_class}}">
+<ul class="list-group">
+<li class="list-group-item"><bd><time datetime="{{date format="YYYY-MM-DD"}}">{{date published_at format='Do MMMM YYYY'}}</time></bd>
+ | <ba>{{#author}}<span ><a href="{{url}}">{{name}}</a></span>{{/author}}</ba>
+<h2 class="post-home"><a href="{{url}}" title="{{title}}">{{title}}</a></h2></li></ul>
+</article>
+{{/foreach}}
+
+{{pagination}}
+
+</div>
+</div>
+</div>
+</div>
+</div>

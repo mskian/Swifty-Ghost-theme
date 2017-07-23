@@ -1,0 +1,30 @@
+{{!< default}}
+
+{{!-- The tag above means - insert everything in this file into the {body} of the default.hbs template --}}
+
+<div class="container">
+<div class="row">
+<div class="col-lg-6 col-lg-offset-3 text-center">
+<br />
+{{#tag}}<h1 class="post-title text-center">{{name}}</h1>{{/tag}}
+<br />
+<br />
+<div class="panel panel-success">
+<div class="panel-body">
+
+{{#foreach posts}}
+<article class="{{post_class}}">
+<ul class="list-group">
+<li class="list-group-item"><bd><time datetime="{{date format="YYYY-MM-DD"}}">{{date published_at format='Do MMMM YYYY'}}</time></bd>
+ | <ba>{{#author}}<span ><a href="{{url}}">{{name}}</a></span>{{/author}}</ba>
+<h2 class="post-home"><a href="{{url}}" title="{{title}}">{{title}}</a></h2></li></ul>
+</article>
+{{/foreach}}
+
+{{pagination}}
+
+</div>
+</div>
+</div>
+</div>
+</div>

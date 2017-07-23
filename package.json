@@ -1,0 +1,17 @@
+{
+    "name": "swifty",
+    "description": "Light weight and Responsive Ghost theme.",
+    "demo": "https://itrendbuzz.com",
+    "version": "0.0.1",
+    "engines": {
+        "ghost": ">=1.0.0"
+    },
+"author": {
+        "name": "Santhosh veer",
+        "email": "me@santhoshveer.com",
+        "url": "https://santhoshveer.com"
+    },
+"config": {
+    "posts_per_page": 5
+   }
+}
