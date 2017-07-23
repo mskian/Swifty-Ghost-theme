@@ -1,4 +1,5 @@
-# Swifty-Ghost-theme
+# Msk Swifty Ghost Theme
+
 Light Weight and Responsive Ghost CMS theme by Santhosh veer
 
 [![GPL](https://img.shields.io/badge/Liscense-GPL-green.svg)](http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
@@ -24,6 +25,21 @@ Theme Version: 0.0.1
 
 - Download this theme
 - Goto > Desing - Upload and activate the theme 
+
+
+## Developer Instruction
+
+- Logo would be icon Best size 32x32 
+- Homepage author/logo size 250x250
+
+## Upcoming Updates
+
+- Facebook/Disqus Comments
+- Sperate files for Post widgets
+
+## Others
+
+
 
 ### Changelog
 
