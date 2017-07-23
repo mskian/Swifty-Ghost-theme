@@ -7,12 +7,19 @@ Light Weight and Responsive Ghost CMS theme by Santhosh veer
 
 ## General Information
 
-This theme Supports on Latest Ghost CMS Version 1.0.0
+This theme Supports on Latest Ghost CMS Version 1.0.0 and LTS Version
 
 ```
 Supported Ghost Version: 1.0.0
 Theme Version: 0.0.1
+Theme demo  - https://itrendbuzz.com
 ```
+## Download Theme
+
+- For Ghost 1.0.0 - https://github.com/mskian/msk-swifty/files/1168095/msk-swifty.zip
+- For Ghost LTS Version (0.11.11) - https://github.com/mskian/msk-swifty/files/1168114/msk-swifty.zip
+
+
 ## Theme Info
 
 - Light weight
@@ -25,8 +32,14 @@ Theme Version: 0.0.1
 
 ## Install Instructions
 
+== For 1.0.0 ==
+
 - Download this theme
 - Goto > Design - Upload and activate the theme 
+
+== For LTS Version ==
+
+- Gotot > general > upload and activate the theme
 
 
 ## Developer Instruction
@@ -38,10 +51,12 @@ Theme Version: 0.0.1
 
 - Facebook/Disqus Comments
 - Separate files for Post widgets
+- Searchbox on Menubar
 
 ## Others
 
 - <a href="https://github.com/mskian/msk-swifty/issues">Submit issues</a>
+- Support Form (Coming Soon)
 
 
 ### Changelog
