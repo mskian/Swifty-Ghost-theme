@@ -7,6 +7,15 @@ Light Weight and Responsive Ghost CMS theme by Santhosh veer
 ## General Information
 
 ```
-Ghost Version: 1.0.0
+Supported Ghost Version: 1.0.0
 Theme Version: 0.0.1
 ```
+## Theme Info
+
+- Light weight
+- Simple Look (No fancy Desings)
+- Clean Layouts
+- Responsive Design
+- Easy to Custamize
+- Social Share buttons
+- Code Highlighter
