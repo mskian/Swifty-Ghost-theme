@@ -60,7 +60,7 @@ Theme demo  - https://itrendbuzz.com
 ## Others :exclamation:
 
 - <a href="https://github.com/mskian/msk-swifty/issues">Submit issues</a>
-- Support Form (Coming Soon)
+- Support Form = we are using Flock Send - <a href="https://mskian.flock.com/">Invite now</a>
 - Detailed Documentation (Updated soon)
 
 
