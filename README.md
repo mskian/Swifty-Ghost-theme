@@ -7,7 +7,7 @@ Light Weight and Responsive Ghost CMS theme by Santhosh veer
 
 ## General Information
 
-This theme Supports on Latest Ghost CMS Version 1.0.0 and LTS Version
+This theme Supports on Both Ghost CMS Versions 1.0.0 and LTS Version :white_check_mark:
 
 ```
 Supported Ghost Version: 1.0.0
