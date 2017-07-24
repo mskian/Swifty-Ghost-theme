@@ -1,11 +1,11 @@
-# Msk Swifty Ghost Theme
+# Msk Swifty Ghost Theme :sparkles: :star2:
 
 Light Weight and Responsive Ghost CMS theme by Santhosh veer
 
 [![GPL](https://img.shields.io/badge/Liscense-GPL-green.svg)](http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![Version](https://img.shields.io/badge/Release-v0.0.1-brightgreen.svg)](https://github.com/mskian/msk-swifty/releases)
 
-## General Information
+## General Information :notes:
 
 This theme Supports on Both Ghost CMS Versions 1.0.0 and LTS Version :white_check_mark:
 
@@ -14,13 +14,13 @@ Supported Ghost Version: 1.0.0
 Theme Version: 0.0.1
 Theme demo  - https://itrendbuzz.com
 ```
-## Download Theme
+## Download Theme :file_folder:
 
 - For Ghost 1.0.0 - https://github.com/mskian/msk-swifty/files/1168095/msk-swifty.zip
 - For Ghost LTS Version (0.11.11) - https://github.com/mskian/msk-swifty/files/1168114/msk-swifty.zip
 
 
-## Theme Info
+## Theme Info :bookmark:
 
 - Light weight
 - Simple Look (No fancy Desings)
@@ -34,7 +34,7 @@ Theme demo  - https://itrendbuzz.com
 - Code Highlighter (prismjs.com)
 
 
-## Install Instructions
+## Install Instructions :point_left:
 
 == For 1.0.0 ==
 
@@ -46,25 +46,25 @@ Theme demo  - https://itrendbuzz.com
 - Gotot > general > upload and activate the theme
 
 
-## Developer Instruction
+## Developer Instruction :point_left:
 
 - Logo would be icon Best size 32x32 
 - Homepage author/logo size 250x250
 
-## Upcoming Updates
+## Upcoming Updates :arrows_clockwise:
 
 - Facebook/Disqus Comments
 - Separate files for Post widgets
 - Searchbox on Menubar
 
-## Others
+## Others :exclamation:
 
 - <a href="https://github.com/mskian/msk-swifty/issues">Submit issues</a>
 - Support Form (Coming Soon)
 - Detailed Documentation (Updated soon)
 
 
-### Changelog
+### Changelog :mega:
 
 #### Version 0.0.1
 
