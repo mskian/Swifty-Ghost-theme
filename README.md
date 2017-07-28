@@ -16,7 +16,7 @@ Theme demo  - https://itrendbuzz.com
 ```
 ## Download Theme :file_folder:
 
-- For Ghost 1.0.0 - https://github.com/mskian/msk-swifty/files/1168095/msk-swifty.zip
+- For Ghost 1.0.0 - https://github.com/mskian/msk-swifty/files/1183375/msk-swifty.zip
 - For Ghost LTS Version (0.11.11) - https://github.com/mskian/msk-swifty/files/1168114/msk-swifty.zip
 
 
@@ -31,7 +31,7 @@ Theme demo  - https://itrendbuzz.com
 - Social Share buttons
 - SEO Optimized
 - Speed optimized
-- Code Highlighter (prismjs.com)
+- <strike>Code Highlighter (prismjs.com)</strike>
 
 
 ## Install Instructions :point_left:
@@ -69,6 +69,10 @@ Theme demo  - https://itrendbuzz.com
 #### Version 0.0.1
 
 - First version
+
+#### Version 0.0.2
+
+- Remove prism js Code highlighter
 
 ### License & Copyright
 
