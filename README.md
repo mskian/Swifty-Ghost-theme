@@ -3,7 +3,7 @@
 Light Weight and Responsive Ghost CMS theme by Santhosh veer
 
 [![GPL](https://img.shields.io/badge/Liscense-GPL-green.svg)](http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![Version](https://img.shields.io/badge/Release-v0.0.1-brightgreen.svg)](https://github.com/mskian/msk-swifty/releases)
+[![Version](https://img.shields.io/badge/Release-v0.0.3-brightgreen.svg)](https://github.com/mskian/msk-swifty/releases)
 
 ## General Information :notes:
 
@@ -16,7 +16,7 @@ Theme demo  - https://itrendbuzz.com
 ```
 ## Download Theme :file_folder:
 
-- For Ghost 1.0.0 - https://github.com/mskian/msk-swifty/files/1183375/msk-swifty.zip
+- For Ghost 1.0.0 - https://github.com/mskian/msk-swifty/files/1202593/msk-swifty.zip
 - For Ghost LTS Version (0.11.11) - https://github.com/mskian/msk-swifty/files/1168114/msk-swifty.zip
 
 
