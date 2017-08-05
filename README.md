@@ -74,6 +74,12 @@ Theme demo  - https://itrendbuzz.com
 
 - Remove prism js Code highlighter
 
+#### Version 0.0.3
+
+- Made Some HTML Tag Adjustments for SEO
+- Change theme color
+- Primary Tag
+
 ### License & Copyright
 
 GPL v3.0 or later.

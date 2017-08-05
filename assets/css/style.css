@@ -1,7 +1,7 @@
 /********************************
 /////////////////////////////////////////////////////////
 //                                                     //
-//  Theme Version: 0.0.1                               //
+//  Theme Version: 0.0.3                               //
 //  Developer: Santhosh veer                           //
 //  All rights are Strictly Reserved by mskian.com     //
 //                                                     //
@@ -15,7 +15,7 @@ body {
     font-size: 18px
 }
 .navbar{
-    background-color:#3676B3;
+    background-color:#1976d2;
     border: 0;
     margin: 0;
     padding:5px 0 5px 0;
@@ -189,27 +189,24 @@ padding:2px;
 .img-circle {
     border-radius: 50%;
 }
-/* Blog Date */
-bd {
+/* Post Meta */
+.post-date {
     font-size: 12px;
     text-transform: uppercase;
     color: #000;
     font-weight: 700;
 }
-/* Blog Author */
-ba {
+.post-author {
     font-size: 12px;
     text-transform: uppercase;
     color: #000;
+    font-weight: 700;
 }
-/* Blog Quote */
-.bq {
-    font-size: 22px;
-    padding-top: 30px;
-}
-/* Blog Tags */
-bt {
-    font-size: 15px;
+.post-tags {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: 700;
 }
 hr {
     display: block;
@@ -227,6 +224,9 @@ background-color: rgb(255, 255, 153);
 border-radius:20px 20px 0 20px;
 font-size: 16px;
 } 
+.msg-box a {
+    color: #000000;
+}
 /* SHAREBUTTONS */
 
 .sharebuttons a { color: #fff !important; }
@@ -239,6 +239,9 @@ font-size: 16px;
 .btn-facebook:hover { background: #2f4679;}
 .btn-twitter:hover { background: #0089bd;}
 .btn-google:hover { background: #b03b2d;}
+.panel-default > .panel-heading-custom {
+    background: #1976d2; color: #fff;
+}
 /* Stylish Internal links v2.0 */
 .awts-inl {
  display: block;

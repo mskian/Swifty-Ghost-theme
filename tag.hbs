@@ -15,13 +15,12 @@
 {{#foreach posts}}
 <article class="{{post_class}}">
 <ul class="list-group">
-<li class="list-group-item"><bd><time datetime="{{date format="YYYY-MM-DD"}}">{{date published_at format='Do MMMM YYYY'}}</time></bd>
- | <ba>{{#author}}<span ><a href="{{url}}">{{name}}</a></span>{{/author}}</ba>
-<h2 class="post-home"><a href="{{url}}" title="{{title}}">{{title}}</a></h2></li></ul>
+<li class="list-group-item"><time class="post-date" datetime="{{date format="YYYY-MM-DD"}}">{{date published_at format='Do MMMM YYYY'}}</time> | {{#author}}<span class="post-author"><a href="{{url}}" rel="author">{{name}}</a></span>{{/author}}
+<h2 class="post-home"><a href="{{url}}" title="{{title}}">{{title}}</a></h2>
+</li>
+</ul>
 </article>
 {{/foreach}}
-
-{{pagination}}
 
 </div>
 </div>

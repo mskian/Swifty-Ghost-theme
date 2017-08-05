@@ -12,7 +12,8 @@
 <br />
 
 <section class="text-center">
-<ba>Written by {{#author}}<a href="{{url}}">{{name}}</a>{{/author}}</ba> <bt>{{tags prefix=" on "}}</bt> <bd><i class="fa fa-calendar" aria-hidden="true"></i> <time datetime="{{date format="YYYY-MM-DD"}}">{{date format="DD MMMM YYYY"}}</time></bd>
+<span class="post-author">Written by {{#author}}<a href="{{url}}" rel="author">{{name}}</a>{{/author}}</span>
+{{#if tags}}<span class="post-tags"> in <a href="{{@blog.url}}/tag/{{tags.[0].slug}}">{{tags.[0].name}}</a></span>{{/if}} <time class="post-date" datetime="{{date format="YYYY-MM-DD"}}"><i class="fa fa-calendar" aria-hidden="true"></i> {{date format="DD MMMM YYYY"}}</time>
 </section>
 <hr>
 

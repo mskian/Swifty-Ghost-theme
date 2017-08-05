@@ -2,7 +2,7 @@
     "name": "swifty",
     "description": "Light weight and Responsive Ghost theme.",
     "demo": "https://itrendbuzz.com",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "ghost": ">=1.0.0"
     },
