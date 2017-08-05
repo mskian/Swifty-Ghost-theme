@@ -53,7 +53,6 @@ Theme demo  - https://itrendbuzz.com
 
 ## Upcoming Updates :arrows_clockwise:
 
-- Cover Pic Support (Work Started)
 - Facebook/Disqus Comments (Work Started)
 - Separate files for Post widgets (Planned)
 - Searchbox on Menubar (Planned)
