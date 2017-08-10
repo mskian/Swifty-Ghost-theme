@@ -1,7 +1,7 @@
 /********************************
 /////////////////////////////////////////////////////////
 //                                                     //
-//  Theme Version: 0.0.3                               //
+//  Theme Version: 0.0.4                               //
 //  Developer: Santhosh veer                           //
 //  All rights are Strictly Reserved by mskian.com     //
 //                                                     //
@@ -333,6 +333,29 @@ color: #fff;
     text-align: center;
     cursor: pointer;
 }
+/* Social icons */
+.tos-social {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+    -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0;
+    -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+    }
+.tos-social:hover, .tos-social:focus, .tos-social:active { outline: 0; opacity: 0.8; color: #fff; }
+.tos-size-32 {
+    width: 32px;
+    height: 32px;
+    margin: 5px;
+    padding-top: 8px;
+    font-size: 14px;
+    line-height: 14px;
+}
+.tos-facebook { background: #4862a3; }
+.tos-instagram { background: #e4405f; }
+.tos-twitter { background: #55acee; }
+.tos-rss { background: #fc8f55; }
 /* Hide on Mobile */
 @media only screen and (max-width: 800px) {
     .hide-on-mobile {
