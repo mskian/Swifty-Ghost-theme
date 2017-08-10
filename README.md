@@ -87,7 +87,7 @@ Theme demo  - https://itrendbuzz.com
 - Update Fontawesome icons
 - Add Bootstrap Missing Font Files
 - New Social Profile Icons
-- Add New JS File ( Move Widgets JS Code into the custom.js File
+- Add New JS File ( Move Widgets JS Code into the custom.js File )
 
 ### License & Copyright
 
