@@ -16,7 +16,7 @@ Theme demo  - https://itrendbuzz.com
 ```
 ## Download Theme :file_folder:
 
-- For Ghost 1.0.0 - https://github.com/mskian/msk-swifty/files/1202593/msk-swifty.zip
+- For Ghost 1.0.0 <b>(Latest and Stable)</b> - https://github.com/mskian/msk-swifty/files/1213714/msk-swifty.zip
 - For Ghost LTS Version (0.11.11) - https://github.com/mskian/msk-swifty/files/1168114/msk-swifty.zip
 
 
@@ -53,9 +53,10 @@ Theme demo  - https://itrendbuzz.com
 
 ## Upcoming Updates :arrows_clockwise:
 
-- Facebook/Disqus Comments (Work Started)
+- Facebook/Disqus Comments (Plan Dropped)
 - Separate files for Post widgets (Planned)
 - Searchbox on Menubar (Planned)
+- Related Post Widget (Planned)
 
 ## Others :exclamation:
 
@@ -79,6 +80,14 @@ Theme demo  - https://itrendbuzz.com
 - Made Some HTML Tag Adjustments for SEO
 - Change theme color
 - Primary Tag
+
+#### Version 0.0.4
+
+- Update Bootstrap Framework
+- Update Fontawesome icons
+- Add Bootstrap Missing Font Files
+- New Social Profile Icons
+- Add New JS File ( Move Widgets JS Code into the custom.js File
 
 ### License & Copyright
 
