@@ -17,8 +17,7 @@ Theme demo  - https://itrendbuzz.com
 ## Download Theme :file_folder:
 
 - For Ghost 1.0.0 <b>(Latest and Stable)</b> - https://github.com/mskian/msk-swifty/releases/download/0.0.5/msk-swifty.zip
-- <strike>For Ghost LTS Version (0.11.11) - https://github.com/mskian/msk-swifty/files/1168114/msk-swifty.zip</strike> - <b>Deprecated</b>
-
+- For Ghost LTS Version (0.11.11) - https://github.com/mskian/msk-swifty/files/1168114/msk-swifty.zip
 
 ## Theme Info :bookmark:
 
