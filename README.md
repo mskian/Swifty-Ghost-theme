@@ -11,13 +11,13 @@ This theme Supports on Both Ghost CMS Versions 1.0.0 and LTS Version :white_chec
 
 ```
 Supported Ghost Version: 1.0.0
-Theme Version: 0.0.4
+Theme Version: 0.0.5
 Theme demo  - https://itrendbuzz.com
 ```
 ## Download Theme :file_folder:
 
-- For Ghost 1.0.0 <b>(Latest and Stable)</b> - https://github.com/mskian/msk-swifty/files/1213714/msk-swifty.zip
-- For Ghost LTS Version (0.11.11) - https://github.com/mskian/msk-swifty/files/1168114/msk-swifty.zip
+- For Ghost 1.0.0 <b>(Latest and Stable)</b> - https://github.com/mskian/msk-swifty/releases/download/0.0.5/msk-swifty.zip
+- <strike>For Ghost LTS Version (0.11.11) - https://github.com/mskian/msk-swifty/files/1168114/msk-swifty.zip</strike> - <b>Deprecated</b>
 
 
 ## Theme Info :bookmark:
@@ -54,6 +54,7 @@ Theme demo  - https://itrendbuzz.com
 ## Upcoming Updates :arrows_clockwise:
 
 - Facebook/Disqus Comments (Plan Dropped)
+- Custom 404 Error Page (Work Started)
 - Separate files for Post widgets (Planned)
 - Searchbox on Menubar (Planned)
 - Related Post Widget (Planned)
@@ -88,6 +89,11 @@ Theme demo  - https://itrendbuzz.com
 - Add Bootstrap Missing Font Files
 - New Social Profile Icons
 - Add New JS File ( Move Widgets JS Code into the custom.js File )
+
+#### Version 0.0.5
+
+- Add Primary Tag Function for Posts ```{{#primary_tag}}<a href="{{url}}">{{name}}</a>{{/primary_tag}}```
+
 
 ### License & Copyright
 
