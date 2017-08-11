@@ -3,7 +3,7 @@
 Light Weight and Responsive Ghost CMS theme by Santhosh veer
 
 [![GPL](https://img.shields.io/badge/Liscense-GPL-green.svg)](http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![Version](https://img.shields.io/badge/Release-v0.0.4-brightgreen.svg)](https://github.com/mskian/msk-swifty/releases)
+[![Version](https://img.shields.io/badge/Release-v0.0.5-brightgreen.svg)](https://github.com/mskian/msk-swifty/releases)
 
 ## General Information :notes:
 
